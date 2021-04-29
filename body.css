@@ -1,0 +1,183 @@
+body {
+
+font-family: sans-serif;
+
+width: 2000px;
+height: 2500px;
+
+background-image:
+
+url('https://i.imgur.com/KJsNWcT.jpg'),
+url('https://i.imgur.com/KJsNWcT.jpg'),
+
+url('https://i.imgur.com/gw6FTkl.jpg'),
+url('https://i.imgur.com/gw6FTkl.jpg'),
+url('https://i.imgur.com/gw6FTkl.jpg'),
+
+url('https://i.imgur.com/ZfNOgZe.jpg'),
+url('https://i.imgur.com/ZfNOgZe.jpg'),
+url('https://i.imgur.com/ZfNOgZe.jpg'),
+url('https://i.imgur.com/ZfNOgZe.jpg'),
+
+url('https://i.imgur.com/t3iNBrY.jpg'),
+url('https://i.imgur.com/t3iNBrY.jpg'),
+url('https://i.imgur.com/t3iNBrY.jpg'),
+url('https://i.imgur.com/t3iNBrY.jpg'),
+url('https://i.imgur.com/t3iNBrY.jpg'),
+
+url('https://i.imgur.com/45136m5.jpg'),
+url('https://i.imgur.com/45136m5.jpg'),
+url('https://i.imgur.com/45136m5.jpg'),
+
+url('https://i.imgur.com/dgUbbtY.jpg'),
+url('https://i.imgur.com/dgUbbtY.jpg'),
+url('https://i.imgur.com/dgUbbtY.jpg'),
+url('https://i.imgur.com/dgUbbtY.jpg'),
+url('https://i.imgur.com/dgUbbtY.jpg'),
+url('https://i.imgur.com/dgUbbtY.jpg'),
+
+url('https://i.imgur.com/zJuaxBR.jpg'),
+url('https://i.imgur.com/zJuaxBR.jpg'),
+url('https://i.imgur.com/zJuaxBR.jpg'),
+url('https://i.imgur.com/zJuaxBR.jpg'),
+url('https://i.imgur.com/zJuaxBR.jpg'),
+url('https://i.imgur.com/YXB9gRj.jpg'),
+url('https://i.imgur.com/YXB9gRj.jpg');
+
+background-repeat: no-repeat;
+
+background-attachment: scroll;
+
+background-position:
+100px 190px,
+2100px 1000px,
+
+900px 125px,
+50px 900px,
+2200px 30px,
+
+1100px 200px,
+600px 2300px,
+1875px 2200px,
+2200px 600px,
+
+1900px 2300px,
+1950px 200px,
+300px 1000px,
+1200px 1900px,
+1000px 500px,
+
+1700px 400px,
+1400px 1800px,
+100px 1800px,
+
+1900px 1200px,
+1250px 1400px,
+450px 200px,
+590px 690px,
+1400px 800px,
+900px 1800px,
+
+800px 1700px,
+1400px 300px,
+980px 2200px,
+300px 1400px,
+0px 0px,
+1000px 0px,
+0px 0px;
+
+background-size:
+auto,
+auto,
+
+auto,
+auto,
+auto,
+
+auto,
+auto,
+240px 440px,
+180px 320px,
+
+auto,
+auto,
+auto,
+auto,
+auto,
+auto,
+310px 240px,
+470px 360px,
+
+300px 600px,
+auto,
+75px 150px,
+450px 900px,
+300px 600px,
+auto,
+
+175px 300px,
+275px 600px,
+auto,
+auto,
+auto,
+cover,
+cover;
+
+}
+
+div.bodie{
+  font-size: 50px;
+  position: absolute;
+  top: 0px;
+  left: 600px;
+  width: 1900px;
+}
+
+#text5{
+  position: absolute;
+  top: 1500px;
+  left: 200px;
+  width: 900px;
+  font-size: 30px;
+}
+
+#text6{
+  position: absolute;
+  top: 1700px;
+  left: 900px;
+  width: 900px;
+  font-size: 40px;
+
+}
+
+#text7{
+  position: absolute;
+  top: 1800px;
+  left: 800px;
+  width: 900px;
+  font-size: 40px;
+
+}
+
+#text8{
+  position: absolute;
+  top: 1750px;
+  left: 150px;
+  width: 900px;
+  font-size: 40px;
+
+}
+
+div.poem{
+  position: absolute;
+  top: 80px;
+  left: 1900px;
+  width: 150px;
+  font-size: 40px;
+}
+
+div.poem2{
+  position: absolute;
+  top: 2300px;
+  left: 10px;
+}
